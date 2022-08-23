@@ -9,7 +9,7 @@ FAQ accordion card solution
 
 ### Links
 
-- Solution URL: ![mt solution](https://github.com/Shaqayeq-Kordloo/accordion-card)
+- Solution URL: ![my github](https://github.com/Shaqayeq-Kordloo/accordion-card)
 - Live Site URL: ![live site](https://shaqayeq-kordloo.github.io/accordion-card/)
 
 ## My process
