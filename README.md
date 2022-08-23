@@ -30,6 +30,6 @@ FAQ accordion card solution
 ## Author
 
 - Website - ![my github](https://github.com/Shaqayeq-Kordloo/accordion-card)
-- Instagram - [@yourusername]@shaqayeq_kordloo
+- Instagram - @shaqayeq_kordloo
 
 
