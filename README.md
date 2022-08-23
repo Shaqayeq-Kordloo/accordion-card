@@ -9,8 +9,8 @@ FAQ accordion card solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ![mt solution](https://github.com/Shaqayeq-Kordloo/accordion-card)
+- Live Site URL: ![live site](https://shaqayeq-kordloo.github.io/accordion-card/)
 
 ## My process
 
@@ -29,8 +29,7 @@ FAQ accordion card solution
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - ![my github](https://github.com/Shaqayeq-Kordloo/accordion-card)
 - Instagram - [@yourusername]@shaqayeq_kordloo
 
 
